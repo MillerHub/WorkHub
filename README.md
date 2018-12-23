@@ -1,2 +1,2 @@
 # WorkHub
-*Progects miller
+*Progects for miller
